@@ -22,6 +22,7 @@ Tasks:
 Task 1️⃣: Create new branch "Student_name" and add 2 commits.
 
 Task 2️⃣: Recreate the graph as in the picture. Leave a link to the repository in the text file "task 2".
+baiel1234/task2
 
 Task 3️⃣: Rebase branch two to branch one and merge three to one. Show the process in screenshots
 
